@@ -1,0 +1,146 @@
+_id,cReg,REGIONE,cProv,PROVINCIA,CODICE,NOME STRADA,ESTESA,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,incid/km 2018
+1,01,Piemonte,001,Torino,AA00401,A 04 -  Torino-Trieste,26.1,82,65,44,37,40,40,48,49,43,23,50,44,39,57,57,2.18
+2,01,Piemonte,001,Torino,SS33505,SS 335 dir -  di Bardonecchia,2.8,-,5,-,-,1,-,-,-,-,1,1,-,-,-,1,0.36
+3,01,Piemonte,002,Vercelli,SS01101,SS 011 -  Padana Superiore,45.3,28,31,27,22,14,24,26,27,26,12,24,16,26,24,18,0.40
+4,01,Piemonte,003,Novara,AA00826,A 08 / A 26 -  Diramazione Gallarate-Gattico,10.5,17,15,13,9,4,7,7,9,6,10,6,5,8,6,4,0.38
+5,01,Piemonte,004,Cuneo,AA00601,A 06 -  Torino-Savona (La Verdemare),75.0,64,57,88,57,74,50,46,39,31,36,47,41,37,42,46,0.61
+6,01,Piemonte,005,Asti,SS03001,SS 030 -  di Val Bormida,1.5,1,-,-,-,1,1,1,2,-,-,2,1,-,-,-,-
+7,01,Piemonte,006,Alessandria,SS03034,SS 030 var -  Variante di Strevi,5.1,-,-,1,-,-,-,2,2,-,1,-,-,1,-,-,-
+8,01,Piemonte,096,Biella,SS14250,SS 142/a -  Raccordo per Variante di Biella,2.5,-,-,-,-,-,-,8,5,7,4,3,3,3,-,6,2.40
+166,01,Piemonte,103,Verbano-Cusio-Ossola,SS03401,SS 034 -  del Lago Maggiore,39.3,87,95,96,71,90,90,73,92,100,83,68,82,71,66,67,1.70
+172,02,Valle d'Aosta,007,Aosta,AA00501,A 05 -  Torino-Aosta,87.0,32,26,29,33,29,27,29,24,22,23,18,16,21,23,18,0.21
+181,02,Valle d'Aosta,007,Aosta,SS50701,SS 507 -  di Cogne,21.5,1,2,3,-,2,4,1,1,4,3,4,2,4,2,-,-
+182,02,Valle d'Aosta,007,Aosta,TR00101,TR 01 -  Traforo del Monte Bianco,5.0,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+185,03,Lombardia,012,Varese,AA00826,A 08 / A 26 -  Diramazione Gallarate-Gattico,13.6,30,23,23,27,15,21,32,19,23,27,30,33,22,18,17,1.25
+220,03,Lombardia,014,Sondrio,SS03806,SS 038 dir/a -  dello Stelvio,1.7,2,2,1,-,-,2,-,1,-,-,1,-,-,-,1,0.59
+230,03,Lombardia,015,Milano,AA00106,Raccordo A 01-Tangenziale Est di Milano,2.9,-,3,2,1,1,-,3,4,8,10,9,11,10,12,9,3.10
+280,03,Lombardia,016,Bergamo,SS67101,SS 671 -  della Val Seriana,70.3,140,141,156,123,149,131,162,135,149,138,132,163,144,141,155,2.21
+284,03,Lombardia,017,Brescia,AA03521,A 35 racc -  Raccordo BreBeMi,7.2,-,-,-,-,-,-,-,-,-,-,2,8,8,11,-,-
+328,03,Lombardia,018,Pavia,SS61701,SS 617 -  Bronese,13.6,17,29,20,19,17,11,13,17,19,19,11,13,21,22,12,0.88
+342,03,Lombardia,019,Cremona,SS59101,SS 591 -  Cremasca,23.4,29,17,13,19,16,14,15,16,15,12,8,21,23,17,18,0.77
+356,03,Lombardia,020,Mantova,SS56701,SS 567 -  del Benaco,4.0,3,4,2,4,1,5,3,2,4,-,-,-,-,-,4,0.99
+383,03,Lombardia,108,Monza e della Brianza,SS52701,SS 527 -  Bustese,12.5,31,52,37,41,40,33,43,50,46,42,28,37,25,36,27,2.16
+384,04,Trentino-Alto Adige,021,Bolzano,AA02201,A 22 -  Brennero-Modena (Autostrada del Brennero),116.4,76,47,60,60,74,64,69,62,78,79,84,69,82,70,66,0.57
+391,04,Trentino-Alto-Adige,021,Bolzano,SS04402,SS 044 bis -  Passo del Rombo,29.5,2,1,2,-,3,3,2,2,4,8,10,5,8,6,5,0.17
+393,04,Trentino-Alto-Adige,021,Bolzano,SS04901,SS 049 -  della Pusteria,71.1,109,100,83,93,68,67,80,51,75,76,58,78,75,69,73,1.03
+406,04,Trentino-Alto-Adige,021,Bolzano,SS62201,SS 622 -  di Solda,11.7,-,1,-,-,-,-,-,-,1,1,-,-,-,3,1,0.09
+408,04,Trentino-Alto-Adige,022,Trento,SS01201,SS 012 -  dell'Abetone e del Brennero,75.1,101,176,138,151,126,107,116,108,109,101,95,114,99,82,113,1.50
+420,04,Trentino-Alto-Adige,022,Trento,SS23705,SS 237 dir -  Diramazione Ca' Rossa,1.3,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+438,04,Trentino-Alto-Adige,022,Trento,SS64101,SS 641 -  del Passo Fedaia,14.2,2,3,-,3,4,3,1,6,1,-,2,2,1,1,1,0.07
+442,05,Veneto,023,Verona,SS01101,SS 011 -  Padana Superiore,58.0,162,146,121,101,113,121,118,98,83,100,113,113,104,109,89,1.53
+474,05,Veneto,024,Vicenza,TA00801,Tangenziale Sud di Vicenza,10.9,3,12,8,8,15,18,14,10,22,17,15,13,9,9,8,0.74
+475,05,Veneto,025,Belluno,AA02701,A 27 -  Venezia-Belluno (Autostrada d'Alemagna),15.9,14,8,8,7,5,3,9,3,3,5,8,7,2,5,8,0.50
+511,05,Veneto,026,Treviso,SS14101,SS 141 -  Strada Cadorna,3.9,-,-,1,1,-,-,-,1,-,1,1,1,1,-,-,-
+524,05,Veneto,027,Venezia,AA05701,A 57 -  Tangenziale di Mestre,25.2,156,144,196,169,141,48,56,62,50,54,60,53,63,61,73,2.90
+563,05,Veneto,028,Padova,SS51601,SS 516 -  Piovese,26.5,77,76,68,83,97,83,85,76,66,66,69,71,55,56,44,1.66
+574,05,Veneto,029,Rovigo,SS49901,SS 499 -  Rodigina,30.5,35,56,55,47,44,25,19,26,24,30,28,23,19,34,22,0.72
+577,06,Friuli-Venezia-Giulia,030,Udine,AA02301,A 23 -  Palmanova-Tarvisio (Autostrada Alpe-Adria),120.0,58,60,68,58,37,53,39,47,33,30,23,31,29,28,41,0.34
+585,06,Friuli-Venezia-Giulia,030,Udine,SS05601,SS 056 -  di Gorizia,21.0,31,29,19,22,20,23,32,43,26,23,16,17,17,18,21,1.00
+600,06,Friuli-Venezia-Giulia,030,Udine,SS67601,SS 676 -  Tangenziale Sud di Udine,9.1,4,8,6,4,3,7,10,-,4,6,2,4,6,4,3,0.33
+617,06,Friuli-Venezia-Giulia,031,Gorizia,SS67701,SS 677 -  di Ronchi dei Legionari,2.0,-,1,4,2,-,3,1,7,1,1,2,6,2,4,1,0.49
+618,06,Friuli-Venezia-Giulia,032,Trieste,AA00401,A 04 -  Torino-Trieste,6.9,4,9,11,7,10,5,5,2,5,6,7,13,8,5,4,0.58
+630,06,Friuli-Venezia-Giulia,093,Pordenone,AA02801,A 28 -  Portogruaro-Pordenone-Conegliano,28.8,22,32,16,32,23,22,11,30,20,27,17,15,24,35,30,1.04
+641,07,Liguria,008,Imperia,AA01001,A 10 -  Genova-Ventimiglia (Autostrada dei Fiori),61.4,54,48,72,52,65,57,49,61,44,44,33,45,30,39,34,0.55
+651,07,Liguria,008,Imperia,SS72001,SS 720 -  Variante di Taggia,1.5,1,4,3,1,2,-,2,1,2,-,-,3,1,3,4,2.67
+657,07,Liguria,009,Savona,SS02802,SS 028 bis -  del Colle di Nava,16.2,17,5,2,7,8,7,6,3,10,6,9,6,4,6,7,0.43
+659,07,Liguria,009,Savona,SS02934,SS 029 var -  Variante di Carcare e Collina Vispa,4.5,-,-,-,-,-,-,1,-,1,2,1,2,4,2,3,0.67
+669,07,Liguria,010,Genova,AA01001,A 10 -  Genova-Ventimiglia (Autostrada dei Fiori),24.5,142,144,138,159,127,166,166,149,116,111,123,102,113,105,102,4.16
+676,07,Liguria,010,Genova,SS22601,SS 226 -  di Valle Scrivia,22.5,11,4,1,2,6,12,11,9,17,12,11,14,12,7,9,0.40
+688,07,Liguria,011,La Spezia,SS00121,SS 001 racc -  Raccordo di La Spezia,0.7,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+700,07,Liguria,011,La Spezia,SS56605,SS 566 dir -  di Val di Vara,14.0,3,2,1,2,1,2,-,1,6,1,-,2,1,1,2,0.14
+716,08,Emilia-Romagna,033,Piacenza,SS72501,SS 725 -  Tangenziale di Piacenza,7.2,8,22,14,16,22,22,23,19,21,26,25,10,14,17,22,3.05
+725,08,Emilia-Romagna,034,Parma,SS35701,SS 357 -  di Fornovo,19.8,28,25,33,35,20,19,26,26,26,21,28,18,29,29,21,1.06
+732,08,Emilia-Romagna,035,Reggio Emilia,AA00101,A 01 -  Milano-Roma-Napoli (Autostrada del Sole),33.6,130,119,85,102,81,66,80,68,56,70,61,86,65,53,57,1.70
+747,08,Emilia-Romagna,036,Modena,AA02201,A 22 -  Brennero-Modena (Autostrada del Brennero),22.8,47,43,45,57,49,42,34,29,19,32,24,30,34,31,33,1.45
+770,08,Emilia-Romagna,037,Bologna,AA01401,A 14 -  Bologna-Taranto (Autostrada Adriatica),54.5,274,256,243,271,188,174,165,185,133,149,157,133,125,144,124,2.28
+791,08,Emilia-Romagna,038,Ferrara,AA01323,A 13 -  Diramazione per Ferrara,6.3,-,2,6,2,2,4,4,2,5,1,9,3,2,2,2,0.32
+809,08,Emilia-Romagna,039,Ravenna,SS06701,SS 067 -  Tosco Romagnola,32.2,50,46,49,39,60,46,43,43,35,24,29,21,25,19,20,0.62
+820,08,Emilia-Romagna,040,ForlÃ¬-Cesena,SS00302,SS 003 bis -  Tiberina,68.4,51,59,53,33,34,37,38,36,31,23,41,44,36,45,32,0.47
+834,08,Emilia-Romagna,099,Rimini,SS00901,SS 009 -  via Emilia,10.0,59,52,32,57,68,43,89,43,38,40,37,51,41,35,42,4.20
+848,09,Toscana,045,Massa-Carrara,SS66501,SS 665 -  Massese,29.0,2,-,1,-,2,7,3,2,2,5,-,1,2,1,3,0.10
+850,09,Toscana,046,Lucca,AA01101,A 11 -  Firenze-Pisa Nord (Firenze Mare),24.8,47,51,40,44,39,37,31,39,39,30,37,35,25,32,33,1.33
+869,09,Toscana,047,Pistoia,SS71601,SS 716 -  Raccordo di Pistoia,5.1,10,12,11,14,16,14,18,9,9,11,17,13,10,12,19,3.74
+872,09,Toscana,048,Firenze,AA00134,A 01 var -  Variante di Valico,14.0,-,-,-,-,-,-,-,-,-,-,-,-,2,12,4,0.29
+899,09,Toscana,049,Livorno,AA01201,A 12 -  Genova-Roma (tratto Genova-Rosignano),31.6,19,19,13,17,14,13,10,9,5,9,16,14,10,9,11,0.35
+926,09,Toscana,050,Pisa,SS43905,SS 439 dir -  Sarzanese Valdera,17.5,3,4,-,2,3,4,7,1,1,3,7,1,-,6,-,-
+947,09,Toscana,051,Arezzo,SS68001,SS 680 -  San Zeno-Monte San Savino,14.7,4,7,8,5,8,13,10,10,6,8,8,6,6,6,2,0.14
+972,09,Toscana,052,Siena,SS71501,SS 715 -  Siena-Bettolle,44.7,28,29,27,29,23,38,38,26,17,27,27,24,30,19,19,0.42
+973,09,Toscana,053,Grosseto,SS00101,SS 001 -  via Aurelia,106.6,78,66,65,70,70,71,66,65,61,55,64,70,62,65,60,0.56
+984,09,Toscana,100,Prato,SS06601,SS 066 -  Pistoiese,4.3,7,5,8,1,21,26,16,18,18,17,17,16,15,8,7,1.63
+986,10,Umbria,054,Perugia,AA00101,A 01 -  Milano-Roma-Napoli (Autostrada del Sole),9.1,6,9,6,5,3,7,5,3,2,5,2,1,4,3,1,0.11
+996,10,Umbria,054,Perugia,SS07601,SS 076 -  della Val d'Esino,3.3,-,3,-,5,-,1,2,1,1,2,-,3,2,2,1,0.30
+1007,10,Umbria,054,Perugia,SS25701,SS 257 -  Apecchiese,20.0,5,10,10,19,18,15,1,9,7,3,4,1,1,1,6,0.30
+1008,10,Umbria,054,Perugia,SS29801,SS 298 -  Eugubina,42.4,27,23,33,33,34,30,27,24,13,19,10,15,17,12,11,0.26
+1029,10,Umbria,054,Perugia,SS68501,SS 685 -  delle Tre Valli Umbre,62.7,1,2,5,9,16,25,25,26,18,18,24,24,24,18,20,0.32
+1031,10,Umbria,055,Terni,NC14101,NSA 141 -  Tangenziale di Orvieto,1.5,-,2,2,3,-,-,-,-,-,-,-,-,-,-,-,-
+1040,10,Umbria,055,Terni,SS20401,SS 204 -  Narnese,10.3,1,2,2,2,4,1,2,-,3,4,2,2,2,-,1,0.10
+1048,10,Umbria,055,Terni,SS67502,SS 675 bis -  Umbro-Laziale,2.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,0.92
+1050,11,Marche,041,Pesaro-Urbino,SS00301,SS 003 -  via Flaminia,65.2,48,53,50,41,38,28,53,62,49,55,56,59,54,55,60,0.92
+1051,11,Marche,041,Pesaro-Urbino,SS01601,SS 016 -  Adriatica,43.5,180,169,187,97,99,86,107,96,132,91,81,75,61,76,103,2.37
+1060,11,Marche,042,Ancona,SS01601,SS 016 -  Adriatica,59.4,174,218,217,160,178,118,150,151,137,95,124,106,115,137,124,2.09
+1061,11,Marche,042,Ancona,SS01607,SS 016 dir/b -  del Porto di Ancona,5.0,4,2,-,1,-,1,5,2,1,1,4,-,2,1,-,-
+1074,11,Marche,043,Macerata,SS07701,SS 077 -  della Val di Chienti,82.1,106,83,104,73,80,69,66,48,54,49,50,41,41,54,68,0.83
+1085,11,Marche,043,Macerata,SS57101,SS 571 -  Helvia Recina,14.7,38,30,41,26,27,12,19,25,19,14,12,9,19,20,16,1.09
+1087,11,Marche,044,Ascoli Piceno,RA01101,Raccordo Autostradale Ascoli-Porto d'Ascoli,23.2,30,24,36,29,44,45,40,28,34,30,27,19,31,31,33,1.42
+1095,11,Marche,044,Ascoli Piceno,SS68501,SS 685 -  delle Tre Valli Umbre,7.4,-,-,1,1,6,-,-,-,2,1,-,-,-,-,-,-
+1105,12,Lazio,056,Viterbo,SS00201,SS 002 -  via Cassia,106.9,113,102,152,119,108,131,134,132,86,96,95,89,59,64,75,0.70
+1116,12,Lazio,057,Rieti,AA00101,A 01 -  Milano-Roma-Napoli (Autostrada del Sole),11.9,16,29,17,16,18,10,20,6,13,8,17,18,17,6,9,0.76
+1136,12,Lazio,057,Rieti,SS70101,SS 701 -  del Nucleo Industriale di Rieti,2.2,-,-,1,2,3,1,1,4,-,-,-,1,-,2,-,-
+1138,12,Lazio,058,Roma,AA01202,A 12 -  Genova-Roma (tratto Roma-Civitavecchia-Tarquinia),64.6,82,106,96,112,104,97,87,76,61,71,65,62,50,47,55,0.85
+1177,12,Lazio,058,Roma,SS60101,SS 601 -  Ostia-Anzio,40.0,99,101,105,97,85,96,125,119,107,76,89,76,64,59,51,1.28
+1196,12,Lazio,059,Latina,SS69901,SS 699 -  dell'Abbazia di Fossanova (SSV Terracina-Prossedi),20.5,8,6,3,7,6,10,4,7,8,1,3,7,3,4,-,-
+1197,12,Lazio,060,Frosinone,AA00101,A 01 -  Milano-Roma-Napoli (Autostrada del Sole),84.3,242,239,220,217,184,195,168,156,138,148,118,131,121,139,128,1.52
+1218,13,Abruzzo,066,L'Aquila,AA02401,A 24 -  Roma-L'Aquila-Teramo,62.6,52,43,28,43,33,43,41,29,31,30,36,24,26,30,34,0.54
+1231,13,Abruzzo,066,L'Aquila,SS08001,SS 080 -  del Gran Sasso d'Italia,36.4,37,22,36,33,22,34,33,27,25,26,14,18,23,20,23,0.63
+1254,13,Abruzzo,066,L'Aquila,SS69601,SS 696 -  del Parco Regionale Sirente-Velino,51.0,-,-,-,-,-,-,-,2,4,1,-,3,3,5,-,-
+1270,13,Abruzzo,067,Teramo,SS55301,SS 553 -  di Atri,40.9,11,14,11,10,10,17,16,11,12,14,12,9,11,5,6,0.15
+1287,13,Abruzzo,068,Pescara,SS71406,SS 714 dir/a -  Tangenziale di Pescara,1.6,-,-,-,-,-,-,-,-,-,-,1,2,-,2,3,1.88
+1312,13,Abruzzo,069,Chieti,SS71407,SS 714 dir/b -  Tangenziale di Pescara,1.0,-,-,-,-,-,-,-,-,-,2,1,1,-,-,1,0.97
+1313,14,Molise,070,Campobasso,AA01401,A 14 -  Bologna-Taranto (Autostrada Adriatica),37.0,27,22,21,18,17,12,15,7,12,11,11,16,8,13,16,0.43
+1314,14,Molise,070,Campobasso,SS01601,SS 016 -  Adriatica,35.3,25,16,21,20,17,21,28,24,19,32,20,7,14,18,11,0.31
+1321,14,Molise,070,Campobasso,SS37501,SS 375 -  Gildonese,12.2,4,1,2,2,-,2,3,1,6,2,-,-,1,-,1,0.08
+1333,14,Molise,070,Campobasso,SS71101,SS 711 -  Tangenziale Ovest di Campobasso,2.4,-,-,-,1,-,2,1,2,-,2,1,2,2,2,1,0.41
+1334,14,Molise,094,Isernia,SS00605,SS 006 dir -  via Casilina,7.0,3,2,-,1,-,-,7,4,1,5,-,3,3,4,-,-
+1342,14,Molise,094,Isernia,SS61801,SS 618 -  Molesana,22.0,-,-,-,-,1,3,1,2,1,1,-,1,1,-,4,0.18
+1346,14,Molise,094,Isernia,SS65201,SS 652 -  di Fondo Valle Sangro,17.6,4,2,1,2,6,3,2,3,2,-,-,1,2,1,2,0.11
+1364,15,Campania,061,Caserta,SS70001,SS 700 -  della Reggia di Caserta,16.7,3,4,4,6,19,18,23,18,16,14,16,12,18,11,10,0.60
+1378,15,Campania,062,Benevento,SS62501,SS 625 -  della Valle del Tammaro,22.7,-,1,2,1,5,4,2,-,-,-,2,-,-,-,-,-
+1379,15,Campania,063,Napoli,AA00101,A 01 -  Milano-Roma-Napoli (Autostrada del Sole),16.7,74,126,115,105,100,95,89,68,72,79,77,82,79,60,84,5.03
+1380,15,Campania,063,Napoli,AA00105,A 01 -  Diramazione Capodichino,3.2,23,29,30,37,34,33,35,27,28,33,25,25,19,28,24,7.50
+1405,15,Campania,063,Napoli,TA00301,Tangenziale Est-Ovest Napoli,22.9,307,308,322,273,257,174,155,173,127,124,122,124,108,116,120,5.24
+1406,15,Campania,064,Avellino,AA01601,A 16 -  Napoli-Canosa (Autostrada dei due Mari),90.9,83,84,82,95,81,90,64,71,53,63,54,53,40,30,38,0.42
+1407,15,Campania,064,Avellino,RA00201,Raccordo Autostradale Salerno-Avellino (OLD ROAD),17.6,35,44,25,21,27,27,28,25,17,22,20,24,17,13,-,-
+1480,15,Campania,065,Salerno,SS69101,SS 691 -  Fondo Valle Sele (SSV Contursi-Lioni),19.0,-,-,-,-,-,2,2,3,2,4,5,2,1,2,4,0.21
+1481,16,Puglia,071,Foggia,AA01401,A 14 -  Bologna-Taranto (Autostrada Adriatica),113.4,63,61,72,62,66,38,30,34,37,14,27,19,28,19,29,0.26
+1508,16,Puglia,071,Foggia,SS68801,SS 688 -  di Mattinata,9.9,-,5,5,3,9,1,-,-,-,-,-,1,1,-,1,0.10
+1515,16,Puglia,072,Bari,SS09701,SS 097 -  delle Murge,23.3,4,2,7,1,7,3,5,12,3,4,7,8,4,6,2,0.09
+1527,16,Puglia,072,Bari,SS63401,SS 634 -  delle Grotte Orientali,33.4,26,34,24,18,19,17,25,31,23,21,26,25,23,30,23,0.69
+1534,16,Puglia,073,Taranto,SS17201,SS 172 -  dei Trulli,33.3,16,18,35,26,26,30,38,41,27,28,28,33,33,29,23,0.69
+1541,16,Puglia,073,Taranto,SS60301,SS 603 -  di S. Giorgio Jonico,10.6,1,4,-,-,1,-,3,1,-,-,-,-,-,1,1,0.09
+1549,16,Puglia,074,Brindisi,SS60501,SS 605 -  di Mesagne,33.0,2,1,6,6,7,7,11,14,8,15,14,9,4,7,9,0.27
+1564,16,Puglia,075,Lecce,SS60501,SS 605 -  di Mesagne,3.5,1,1,1,1,-,1,1,1,-,1,-,2,4,1,2,0.57
+1580,16,Puglia,110,Barletta-Andria-Trani,SS16901,SS 169 -  di Genzano,3.0,-,-,-,1,2,2,2,3,-,-,-,-,-,-,-,-
+1588,17,Basilicata,076,Potenza,AA00201,A 02 -  Autostrada del Mediterraneo,29.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,17,0.59
+1590,17,Basilicata,076,Potenza,RA00501,Raccordo Autostradale Scalo Sicignano-Potenza,35.7,22,36,29,29,22,25,17,17,23,24,18,11,20,27,34,0.95
+1613,17,Basilicata,076,Potenza,SS38101,SS 381 -  del Passo delle Crocelle e di Valle Cupa,45.7,-,-,-,-,2,1,1,2,2,2,2,1,-,2,2,0.04
+1642,17,Basilicata,077,Matera,SS65501,SS 655 -  Bradanica,40.9,-,-,-,-,-,1,3,1,-,-,1,1,2,-,1,0.02
+1680,18,Calabria,079,Catanzaro,AA00302,A 03 -  Salerno-Reggio Calabria (OLD ROAD),47.3,55,61,46,53,41,51,49,40,31,26,17,31,30,22,-,-
+1690,18,Calabria,079,Catanzaro,SS10901,SS 109 -  della Piccola Sila,125.0,4,12,13,9,4,9,10,6,10,6,4,6,7,3,3,0.02
+1707,18,Calabria,080,Reggio Calabria,NC28101,NSA 281 -  Gallico-Gambarie,6.9,-,-,-,-,-,-,-,1,-,-,-,2,-,-,1,0.14
+1748,18,Calabria,102,Vibo Valentia,SS71305,SS 713 dir -  di Serra San Bruno,7.2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+1749,19,Sicilia,081,Trapani,AA02901,A 29 -  Palermo-Mazara del Vallo,70.5,32,39,26,30,34,47,22,40,26,24,23,22,21,29,28,0.40
+1774,19,Sicilia,082,Palermo,SS12101,SS 121 -  Catanese,86.4,41,48,56,49,50,41,55,44,46,47,36,33,25,32,34,0.39
+1786,19,Sicilia,083,Messina,AA02001,A 20 -  Messina-Palermo,147.9,181,224,210,198,223,294,229,230,170,165,136,141,165,169,154,1.04
+1804,19,Sicilia,084,Agrigento,SS19001,SS 190 -  delle Solfare,2.9,1,1,-,1,2,-,-,-,-,-,-,-,-,-,-,-
+1817,19,Sicilia,085,Caltanissetta,SS12101,SS 121 -  Catanese,45.7,5,2,10,2,1,4,4,2,1,-,1,-,-,-,1,0.02
+1828,19,Sicilia,086,Enna,SS11702,SS 117 bis -  Centrale Sicula,60.2,29,18,29,16,20,32,30,28,24,22,20,21,8,11,11,0.18
+1854,19,Sicilia,087,Catania,SS19401,SS 194 -  Ragusana,24.6,10,8,2,6,6,3,1,2,4,3,2,2,5,1,1,0.04
+1864,19,Sicilia,088,Ragusa,SS51401,SS 514 -  di Chiaramonte,19.2,10,11,11,15,10,7,13,10,14,6,10,11,8,7,9,0.47
+1865,19,Sicilia,089,Siracusa,AA01802,A 18 -  Catania-Siracusa,17.9,-,-,-,-,-,9,19,17,17,16,9,25,19,22,9,0.50
+1898,20,Sardegna,090,Sassari,SS42701,SS 427 -  della Gallura Centrale,34.9,-,4,-,1,1,1,-,2,1,1,3,-,3,1,1,0.03
+1912,20,Sardegna,091,Nuoro,SS38901,SS 389 -  di BuddusÃ² e del Correboi,56.2,18,12,15,10,13,13,15,10,6,3,6,11,9,3,2,0.04
+1930,20,Sardegna,092,Cagliari,SS55401,SS 554 -  Cagliaritana,29.1,26,34,36,37,36,32,40,51,28,40,26,43,35,50,40,1.37
+1931,20,Sardegna,095,Oristano,SS12601,SS 126 -  Sud Occidentale Sarda,15.4,8,7,-,5,4,3,5,6,3,2,6,1,2,5,3,0.20
+1944,20,Sardegna,111,Sud Sardegna,SS13001,SS 130 -  Iglesiente,38.1,5,8,9,9,8,13,9,8,9,16,17,14,24,19,22,0.58
+1953,20,Sardegna,111,Sud Sardegna,SS38701,SS 387 -  del Gerrei,76.5,11,12,11,13,7,11,14,8,5,9,16,9,12,15,19,0.25
+1956,,ITALIA - TOT. LOCALIZZAZIONE (con A03 SA-RC e RA02 SA-AV),,,,estesa totale incluse le old road,"55,164","49,263","48,442","48,258","47,056","44,291","44,686","46,111","42,145","38,930","37,320","37,017","36,717","36,901","36,519","37,206",0.67
