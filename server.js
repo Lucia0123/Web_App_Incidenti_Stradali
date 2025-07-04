@@ -1,3 +1,5 @@
+
+const port = 3000;
 const fs = require('fs'); // modulo che serve per manipolare il file incidenti.json
 const csvtojson = require('csvtojson'); // per convertire incidenti.csv in .json
 const express = require("express");
@@ -34,11 +36,11 @@ csvtojson()
 
   app.get('/home', (req, res) => {
     user.loggato = false;
-    res.render(__dirname + '/src/pages/home.html'); // fa il rendering di home.html
+    res.sendFile(__dirname + '/src/pages/home.html'); // fa il rendering di home.html
   });
 
   app.get('/login', (req, res) => {
-    res.render(__dirname + '/src/pages/login.html');
+    res.sendFile(__dirname + '/src/pages/login.html');
   });
 
   // funzione per verificare le credenziali inserite dall'utente
@@ -66,25 +68,25 @@ csvtojson()
   // pagina riservata all'utente autenticato
   app.get('/admin', (req, res) => {
     if(user.loggato == true){
-      res.render(__dirname + '/src/pages/admin.html');
+      res.sendFile(__dirname + '/src/pages/admin.html');
     }
   });
 
   app.get('/admin/aggiungi', (req, res) => {
     if(user.loggato == true){
-      res.render(__dirname + '/src/pages/aggiungi.html');
+      res.sendFile(__dirname + '/src/pages/aggiungi.html');
     }
   });
 
   app.get('/admin/elimina', (req, res) => {
     if(user.loggato == true){
-      res.render(__dirname + '/src/pages/rimuovi.html');
+      res.sendFile(__dirname + '/src/pages/rimuovi.html');
     }
   });
 
   app.get('/admin/modifica', (req, res) => {
     if(user.loggato == true){
-      res.render(__dirname + '/src/pages/modifica.html');
+      res.sendFile(__dirname + '/src/pages/modifica.html');
     }
   });
 
@@ -352,6 +354,6 @@ app.delete('/admin/rimuoviluogo', (req, res) => {
   });
 
 // Makes the server listen for connections on port
-const server = app.listen(process.env.PORT, function () {
-  console.log("Listening for connections on port " + process.env.PORT);
+const server = app.listen(port, function () {
+  console.log("Listening for connections on port " + port);
 });

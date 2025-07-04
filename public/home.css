@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 254, 235);
+    background-image: url("https://cdn.glitch.global/bcf29e83-04a6-43c8-9915-424f111a174c/car.png?v=1719295502960");
+    background-repeat: no-repeat;
+    background-position: 100% 95%;
+    background-attachment: fixed;
+}
+
+.bottone{
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 0.25em;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    text-align: center;
+    float: right;
+    border-color: aquamarine;
+    border-radius: 8px;
+    padding: 1em;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul *:hover, a:hover{
+    background-color: rgb(200, 246, 231);
+    color: rgb(14, 56, 227);
+}
+
+h1, h2{
+    text-align: center;
+}
+
+ul{
+    margin-top: 3%;
+    margin-left: 18%;
+    list-style-type: none;
+    border-style: groove;
+    border-color: aquamarine;
+    border-radius: 8px;
+    width: fit-content;
+    padding: 1em;
+    background-color: aquamarine;  
+}
+
+.grid-container, .grid-container2{
+    width: 65%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr) );
+    column-gap: 2em;
+    row-gap: 2em;
+    margin: 1%;
+    margin-left: 15%;
+}
+
+.grid-container2{
+    width: 40%;
+    margin-left: 26%;
+}
+
+li{
+    width: fit-content;
+    height: fit-content;
+    border-style: groove;
+    color: black;
+    border-color: aquamarine;
+    border-radius: 8px;
+    background-color: aquamarine;
+    padding: 5px;
+    text-decoration: none;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#placeholderTabella, #regione{
+  width: 30%;
+  margin-left: 35.1%;
+}
+
+footer{
+    margin-top: 20em;
+}

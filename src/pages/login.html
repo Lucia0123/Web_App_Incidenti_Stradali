@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <title>Login</title>
+        <meta charset="UTF-8">
+        <meta name="author" content="Lucia Melle">
+        <meta name="keywords" lang="it" content="incidenti, strada">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="login.css">
+    </head>
+
+    <body>
+        <div>
+            <h2>Login</h2>
+            <p>Esegui l'autenticazione per poter modificare i dati sugli incidenti avvenuti.</p>
+            <form id="form">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" placeholder="Username" autofocus required>
+                <br>
+                <br>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" placeholder="Password" minlength="8" required>
+                <br>
+                <input class="login" type="submit" value="Invia">
+            </form>
+        </div>
+
+        <footer>
+            Per la fonte degli open data usati <a href="https://dati.mit.gov.it/catalog/dataset/localizzazione-incidenti-stradali-anni-2004-2018/resource/851010af-2eb4-4adb-a209-d7fc5fd265cc">clicca qui</a>
+            <a href="https://www.gardainformatica.it/database-comuni-italiani#scarica">e qui</a>
+        </footer>
+      
+      <script src="/login.js"></script>
+    </body>
+</html>

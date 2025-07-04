@@ -1,0 +1,25 @@
+form  { 
+  display: table;
+}
+
+p{
+  display: table-row;
+}
+
+label { 
+  display: table-cell;
+}
+
+input {
+  display: table-cell;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 254, 235);
+    margin-left: 35%;
+    background-image: url("https://cdn.glitch.global/bcf29e83-04a6-43c8-9915-424f111a174c/car.png?v=1719295502960");
+    background-repeat: no-repeat;
+    background-position: 100% 95%;
+    background-attachment: fixed;
+}

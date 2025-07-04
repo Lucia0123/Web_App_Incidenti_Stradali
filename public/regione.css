@@ -1,0 +1,17 @@
+table *{
+    border-style: solid;
+    background-color: aquamarine;
+}
+
+#regione{
+    text-align: center;
+}
+
+main{
+    visibility: hidden;
+}
+
+#nav2{
+  margin-left: 35%;
+  width: 25%;
+}

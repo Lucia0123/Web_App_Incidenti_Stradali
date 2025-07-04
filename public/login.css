@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 254, 235);
+    background-image: url("https://cdn.glitch.global/bcf29e83-04a6-43c8-9915-424f111a174c/car.png?v=1719295502960");
+    background-repeat: no-repeat;
+    background-position: 100% 95%;
+    background-attachment: fixed;
+}
+
+footer{
+    margin-top: 20em;
+}
+
+div{
+    border-style: groove;
+    border-color: black;
+    border-radius: 8px;
+    padding: 2%;
+    height: 35%;
+    width: 40%;
+    min-height: 35%;
+    min-width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.login{
+    margin-top: 8%;
+}
+
+input{
+    max-width: 40%;
+}

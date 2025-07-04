@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>       
+        <title>Home</title>
+        <meta name="author" content="Lucia Melle">
+        <meta name="keywords" lang="it" content="incidenti, strada">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="/home.css">
+        <link rel="stylesheet" type="text/css" href="/regione.css">
+    </head>
+
+    <body lang="it">
+        <button class="bottone" id="login">
+            Login
+        </button>
+        <header>
+            <h1>Benvenuti nel sito per il monitoraggio e la prevenzione degli incidenti stradali</h1>
+            <h2>Selezionare la regione per visualizzare le località di incidenti negli anni 2004-2018</h2>
+          <nav class="nav1">
+                <ul id="lista" class="grid-container">
+                    <li id="abruzzo">Abruzzo</li>
+                    <li id="basilicata">Basilicata</li>
+                    <li id="calabria">Calabria</li>
+                    <li id="campania">Campania</li>
+                    <li id="emilia-romagna">Emilia-Romagna</li>
+                    <li id="friuli-venezia-giulia">Friuli-Venezia-Giulia</li>
+                    <li id="lazio">Lazio</li>
+                    <li id="liguria">Liguria</li>
+                    <li id="lombardia">Lombardia</li>
+                    <li id="marche">Marche</li>
+                    <li id="molise">Molise</li>
+                    <li id="piemonte">Piemonte</li>
+                    <li id="puglia">Puglia</li>
+                    <li id="sardegna">Sardegna</li>
+                    <li id="sicilia">Sicilia</li>
+                    <li id="toscana">Toscana</li>
+                    <li id="trentino-alto-adige">Trentino-Alto-Adige</li>
+                    <li id="umbria">Umbria</li>
+                    <li id="valled'aosta">Valle d'Aosta</li>
+                    <li id="veneto">Veneto</li>
+                </ul>
+            </nav>
+        </header>
+
+        <main id="contenutoDellaRegione">
+            <br><br>
+            <h2 id="regione"></h2> <!-- posto riservato al nome della regione selezionata -->
+            <!-- Qua mettere tabella -->
+            <div id="placeholderTabella">
+
+            </div>
+        </main>
+
+        <footer>
+            Per la fonte degli open data usati <a href="https://dati.mit.gov.it/catalog/dataset/localizzazione-incidenti-stradali-anni-2004-2018/resource/851010af-2eb4-4adb-a209-d7fc5fd265cc">clicca qui</a>
+            <a href="https://www.gardainformatica.it/database-comuni-italiani#scarica"> e qui</a></footer>
+
+        <script src="/home.js"></script>
+    </body>
+</html>

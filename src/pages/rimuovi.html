@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <title>Rimuovi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/aggiungi.css">
+</head>
+<body>
+    <header>
+        <h1>Gestione Dati Incidenti</h1>
+    </header>
+    <main>
+        <h2>Rimuovi un luogo di incidente</h2>
+        <form method="post" id="rimuoviLuogoForm">
+            <label for="regioni">Scegliere la regione:</label>
+            <select id="regioni" name="regioni">
+                <option>Abruzzo</option>
+                <option>Basilicata</option>
+                <option>Calabria</option>
+                <option>Campania</option>
+                <option>Emilia-Romagna</option>
+                <option>Friuli-Venezia-Giulia</option>
+                <option>Lazio</option>
+                <option>Liguria</option>
+                <option>Lombardia</option>
+                <option>Marche</option>
+                <option>Molise</option>
+                <option>Piemonte</option>
+                <option>Puglia</option>
+                <option>Sardegna</option>
+                <option>Sicilia</option>
+                <option>Toscana</option>
+                <option>Trentino-Alto-Adige</option>
+                <option>Umbria</option>
+                <option>Valle d'Aosta</option>
+                <option>Veneto</option>
+            </select>
+            <br><br>
+            <p>
+            <label for="provincia">Provincia:</label>
+            <input type="text" id="provincia" name="provincia" required>
+            </p>
+            <br><br>
+            <p>
+              <label for="nomeStrada">Nome Strada:</label>
+              <input type="text" id="nomeStrada" name="nomeStrada" required>
+            </p>
+            <br><br>
+            <button type="submit">Elimina Luogo</button>
+            <br><br>
+        </form>
+    </main>
+    <footer>
+        <p>Per la fonte degli open data usati <a href="https://dati.mit.gov.it/catalog/dataset/localizzazione-incidenti-stradali-anni-2004-2018/resource/851010af-2eb4-4adb-a209-d7fc5fd265cc">clicca qui</a></p>
+        <a href="https://www.gardainformatica.it/database-comuni-italiani#scarica">e qui</a>
+    </footer>
+
+    <script src="/rimuovi.js"></script>
+</body>
+</html>
